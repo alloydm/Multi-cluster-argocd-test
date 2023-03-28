@@ -6,4 +6,4 @@ data:
   bds_k8s_containerrepo: ""
   ezbootstraprepo: "bluedata/"
   ezbootstraptoolsimagename: "hpecp-bootstrap-tools"
-  ezbootstraptoolsversion: "0.8"
+  ezbootstraptoolsversion: "0.9"
