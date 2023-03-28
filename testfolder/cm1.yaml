@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: ezaddonconfig1
+  name: ezaddonconfig
 data:
   bds_k8s_containerrepo: ""
   ezbootstraprepo: "bluedata/"
